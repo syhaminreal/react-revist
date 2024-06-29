@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": false,
+    "favorites.resources": [
+        {
+            "filePath": "cms\\src\\App.css",
+            "group": "Default"
+        }
+    ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "Jota0222.multi-formatter"
+    }
+}
